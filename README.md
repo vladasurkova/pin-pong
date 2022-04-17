@@ -62,4 +62,4 @@ while game:
         left_r.update_r()
         right_r.update_l()
     display.update()
-    clock.tick()
+    
